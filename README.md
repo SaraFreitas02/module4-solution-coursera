@@ -11,13 +11,13 @@ This is the first assignment from the fourth module, "Introduction to Javascript
 - [Credits](#credits)
 
 ## Goal
-Create a functioning javascript code that logs various names and greeting on the console when opening the page.
+Program a functioning javascript code that logs diverse names and greetings on the console when opening the webpage.
 
 ### Rules
-- You should use the predefined array of names.
+- Must use the predefined array of names.
+- The goal should be reached using arrays and loops.
 - The console should log 'Good Bye' together with the names that start with the letter J.
 - The other names should be logged together with 'Hello', instead.
-- The goal should be reached using arrays and loops.
 
 ## Project Files
 - **[index.html](index.html)**: Responsible for the content of the page (not important for this project).
